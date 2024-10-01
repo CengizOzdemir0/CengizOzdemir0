@@ -16,9 +16,16 @@ Here are some ideas to get you started:
 -->
 
 ##    Connect with me:
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cengiz-ozdemir-ba56a81a0)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/cengizank18)
-  [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/c.ozdmr)
+ <a href="https://www.linkedin.com/in/cengiz-ozdemir-ba56a81a0">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" width="120" height="40">
+</a>
+<a href="https://x.com/cengizank18">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" width="120" height="40">
+</a>
+<a href="https://instagram.com/c.ozdmr">
+    <img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=instagram&logoColor=white" alt="Instagram" width="120" height="40">
+</a>
+
 
 ## 🛠 Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
