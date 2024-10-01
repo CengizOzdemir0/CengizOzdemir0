@@ -16,15 +16,16 @@ Here are some ideas to get you started:
 -->
 
 ##    Connect with me:
- <a href="https://www.linkedin.com/in/cengiz-ozdemir-ba56a81a0">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" width="90" height="40">
+<a href="https://www.linkedin.com/in/cengiz-ozdemir-ba56a81a0">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="40" height="40">
 </a>
 <a href="https://x.com/cengizank18">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" width="90" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="Twitter" width="40" height="40">
 </a>
 <a href="https://instagram.com/c.ozdmr">
-    <img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=instagram&logoColor=white" alt="Instagram" width="90" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40">
 </a>
+
 
 
 ## 🛠 Languages and Tools:
