@@ -24,3 +24,13 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+## Databases and Tools:
+- mysql
+- oracle
+- postgres
+- sql
+- mongo db
+- redis
+- docker
+
