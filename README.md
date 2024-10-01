@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ##    Connect with me:
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cengiz-ozdemir-ba56a81a0)
   [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/cengizank18)
-
+  [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/c.ozdmr)
 
 ## 🛠 Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
