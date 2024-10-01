@@ -29,5 +29,6 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://media.giphy.com/media/4p8j5CjvSTIuc9sEt2/giphy.gif](https://github.com/hakanozer/hakanozer/raw/main/databases_and_tools/oracle.svg))
+![Oracle](https://media.giphy.com/media/2wqtlYjZ0mP1rDhGoi/giphy.gif) 
+
 
