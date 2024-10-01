@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ##    Connect with me:
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cengiz-ozdemir-ba56a81a0)
-- [Twitter](https://twitter.com/username) ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)
-- [GitHub](https://github.com/username) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cengiz-ozdemir-ba56a81a0)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](Twitter](https://x.com/cengizank18))
+
 
 ## 🛠 Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
