@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ##    Connect with me:
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/cengiz-ozdemir-ba56a81a0)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](Twitter](https://x.com/cengizank18))
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/cengizank18)
 
 
 ## 🛠 Languages and Tools:
