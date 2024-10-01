@@ -16,17 +16,24 @@ Here are some ideas to get you started:
 -->
 
 ##    Connect with me:
+<style>
+    .social-link {
+        text-decoration: none; /* Alt çizgiyi kaldırır */
+    }
+</style>
+
 <p dir="auto">
-    <a href="https://www.linkedin.com/in/cengiz-ozdemir-ba56a81a0" rel="nofollow">
+    <a class="social-link" href="https://www.linkedin.com/in/cengiz-ozdemir-ba56a81a0" rel="nofollow">
         <img alt="LinkedIn" src="https://github.com/hakanozer/hakanozer/raw/main/social_icon/linked-in-alt.svg" width="40" style="max-width: 100%;">
     </a>&nbsp; &nbsp;
-    <a href="https://x.com/cengizank18" rel="nofollow">
+    <a class="social-link" href="https://x.com/cengizank18" rel="nofollow">
         <img alt="Twitter" src="https://github.com/hakanozer/hakanozer/raw/main/social_icon/twitter.svg" width="40" style="max-width: 100%;">
     </a>&nbsp; &nbsp;
-    <a href="https://instagram.com/c.ozdmr" rel="nofollow">
+    <a class="social-link" href="https://instagram.com/c.ozdmr" rel="nofollow">
         <img alt="Instagram" src="https://github.com/hakanozer/hakanozer/raw/main/social_icon/instagram.svg" width="40" style="max-width: 100%;">
     </a>
 </p>
+
 
 
 
