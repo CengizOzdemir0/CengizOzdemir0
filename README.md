@@ -23,13 +23,11 @@ Here are some ideas to get you started:
     <a href="https://x.com/cengizank18" rel="nofollow">
         <img alt="Twitter" src="https://github.com/hakanozer/hakanozer/raw/main/social_icon/twitter.svg" width="40" style="max-width: 100%;">
     </a>&nbsp; &nbsp;
-    <a href="https://facebook.com/yourprofile" rel="nofollow">
-        <img alt="Facebook" src="https://github.com/hakanozer/hakanozer/raw/main/social_icon/facebook.svg" width="40" style="max-width: 100%;">
-    </a>&nbsp; &nbsp;
     <a href="https://instagram.com/c.ozdmr" rel="nofollow">
         <img alt="Instagram" src="https://github.com/hakanozer/hakanozer/raw/main/social_icon/instagram.svg" width="40" style="max-width: 100%;">
     </a>
 </p>
+
 
 
 
